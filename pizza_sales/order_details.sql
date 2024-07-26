@@ -1,0 +1,1 @@
+SELECT*FROM pizzahut.order_details;
